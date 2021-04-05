@@ -8,3 +8,16 @@ https://github.com/gitindro/Unity3DCarPaint/blob/master/ATI-Presentation/Oat-Tat
 ![alt text](https://github.com/gitindro/Unity3DCarPaint/blob/edc3aa256f39539889a3253862c74fdf3a13b464/C2.jpg?raw=true)
 
 
+# NOTE: 
+This is not production ready . shader needs clean up. But it help you get started with writing custom shaders in URP, I will do it when I ge the time.
+
+# Improvements / Variations
+Use Texture inut for Base color instead of Color.
+
+All car assets from from following free asset pack in unity asset store:
+
+https://assetstore.unity.com/publishers/22495
+
+https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-sports-car-20-144253
+
+https://assetstore.unity.com/packages/3d/vehicles/land/hq-racing-car-model-no-1202-128064
