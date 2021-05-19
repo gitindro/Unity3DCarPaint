@@ -9,10 +9,12 @@ https://github.com/gitindro/Unity3DCarPaint/blob/master/ATI-Presentation/Oat-Tat
 
 
 # NOTE: 
-This is not production ready . shader needs clean up. But it help you get started with writing custom shaders in URP, I will do it when I ge the time.
+This is not production ready, shader needs clean up. I will clean it up when I get the time.  
 
 # Improvements / Variations
-Use Texture inut for Base color instead of Color.
+Use Texture input for Base color instead of Color.
+
+
 
 All car assets from from following free asset pack in unity asset store:
 
